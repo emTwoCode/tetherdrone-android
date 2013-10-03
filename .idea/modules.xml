@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TetherDrone/TetherDrone.iml" filepath="$PROJECT_DIR$/TetherDrone/TetherDrone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TetherDroneProject.iml" filepath="$PROJECT_DIR$/TetherDroneProject.iml" />
+    </modules>
+  </component>
+</project>
+
